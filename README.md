@@ -37,7 +37,7 @@ A Streamlit-based chatbot powered by Retrieval-Augmented Generation (RAG) and Op
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/aimaster-dev/chatbot-using-rag-and-langchain.git
+git clone https://github.com/co-dev0909/chatbot-using-rag-and-langchain.git
 cd chatbot-using-rag-and-langchain
 ```
 
@@ -106,6 +106,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 📬 Contact
 
-Made with ❤️ by [aimaster-dev](https://github.com/aimaster-dev). Contributions welcome!
+Made with ❤️ by [co-dev0909](https://github.com/co-dev0909). Contributions welcome!
 
 ---
